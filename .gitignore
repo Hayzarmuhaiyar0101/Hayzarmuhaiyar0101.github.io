@@ -13,6 +13,12 @@
 # Used by dotenv library to load environment variables.
 # .env
 
+# ignore ALL .log files
+*.log
+
+$ ignore ALL files in ANY directory named _site
+_site/
+
 # Ignore Byebug command history file.
 .byebug_history
 
