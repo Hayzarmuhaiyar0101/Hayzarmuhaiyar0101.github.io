@@ -5,7 +5,7 @@ title : friends
 
 # friends page
 
-berikut teman teman sayad dikelas
+Ini teman teman seperjuangan saya
 1. [Ahmad Aulia Fahlevi](https://lepii1.github.io/)
 2. [Alvi Syahril]("https://alvi0syahril.github.io")
 3. [Bunga Alfa Zahrah](https://bunga-hub.github.io/)
