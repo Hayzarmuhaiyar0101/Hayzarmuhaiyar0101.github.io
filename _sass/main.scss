@@ -1,4 +1,4 @@
-// Variables
+
 $primary-color: #635757;
 $primary-color-dark: #151716;
 $secondary-color: #3498db;
@@ -29,14 +29,14 @@ $transition: all 0.3s ease;
     100% { transform: translateY(0px); }
 }
 
-// Reset
+
 *, *::before, *::after {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-// Base styles
+
 body {
     font-family: $font-stack;
     line-height: 1.6;
@@ -45,7 +45,6 @@ body {
     overflow-x: hidden;
 }
 
-// Layout components
 header {
     background: linear-gradient(135deg, $primary-color, $secondary-color);
     color: white;
@@ -317,7 +316,7 @@ footer {
     }
 }
 
-// Utility classes
+
 .container {
     width: 90%;
     max-width: 1200px;
@@ -325,7 +324,7 @@ footer {
     padding: 0 1rem;
 }
 
-// Buttons
+
 .btn {
     display: inline-block;
     padding: 0.8rem 1.5rem;
