@@ -1,5 +1,9 @@
 url: 'https://Hayzarmuhaiyar0101.github.io'
 
+title: 'Hayzar Muhaiyar'
+description: 'Mahasiswa Teknik Informatika • Politeknik Negeri Lhokseumawe'
+
+       
 plugins:
   - jekyll-feed
   - jekyll-sitemap
