@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (klikBtn) {
         klikBtn.addEventListener('click', function() {
             Swal.fire({
-                title: 'Cieeee Ketipuu! 😝',
+                title: 'Tapiii Booong! 😝',
                 text: 'Makanya jangan sembarangan pencet-pencet ya! 😂',
                 icon: 'success',
                 showConfirmButton: false,
